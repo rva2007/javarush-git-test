@@ -1,3 +1,3 @@
 # javarush-git-test
 RRR
-Thai is just a simple test.
+This is just a simple test.
